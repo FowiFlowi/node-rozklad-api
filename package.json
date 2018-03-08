@@ -1,0 +1,30 @@
+{
+  "name": "node-rozklad-api",
+  "version": "1.0.0",
+  "description": "Schedule API based on https://api.rozklad.org.ua/",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fowi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FowiFlowi/node-rozklad-api.git"
+  },
+  "license": "LicenseRef-LICENSE",
+  "dependencies": {
+    "got": "^8.2.0"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "kpi",
+    "rozklad",
+    "schedule"
+  ],
+  "bugs": {
+    "url": "https://github.com/FowiFlowi/node-rozklad-api/issues"
+  },
+  "homepage": "https://github.com/FowiFlowi/node-rozklad-api#readme",
+  "devDependencies": {}
+}
