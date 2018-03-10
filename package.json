@@ -1,6 +1,6 @@
 {
   "name": "node-rozklad-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Schedule API based on https://api.rozklad.org.ua/",
   "main": "./lib/index.js",
   "scripts": {
