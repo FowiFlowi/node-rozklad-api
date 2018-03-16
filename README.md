@@ -9,7 +9,13 @@ npm i node-rozklad-api
 ```js
 const r = require('node-rozklad-api')
 ```
+## Debug
+To enable debug mode
+```bash
+DEBUG=rozklad node app.js
+```
 ## Method
+Each method can accept either identifier or name
 - [timetable](#timetable)
 - [lessons](#lessons)
 - [teacherLessons](#teacherlessons)
@@ -17,8 +23,6 @@ const r = require('node-rozklad-api')
 - [teachers](#teachers)
 - [groupTeachers](#groupteachers)
 - [currWeek](#currweek)
-
-Each method can accept either identifier or name
 
 ## timetable
 
