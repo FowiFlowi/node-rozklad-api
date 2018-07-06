@@ -1,6 +1,8 @@
 ## KPI rozklad Lib
 Schedule API based on [Rozklad API](https://api.rozklad.org.ua/)
 
+It has built-in caching (maxAge = 6 days)
+
 ## Install
 ```bash
 npm i node-rozklad-api

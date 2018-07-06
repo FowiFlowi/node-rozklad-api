@@ -1,6 +1,6 @@
 {
   "name": "node-rozklad-api",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Schedule API based on https://api.rozklad.org.ua/",
   "main": "./lib/index.js",
   "scripts": {
@@ -14,7 +14,8 @@
   "license": "LicenseRef-LICENSE",
   "dependencies": {
     "debug": "^3.1.0",
-    "got": "^8.2.0"
+    "got": "^8.2.0",
+    "mem": "^3.0.1"
   },
   "keywords": [
     "node",
